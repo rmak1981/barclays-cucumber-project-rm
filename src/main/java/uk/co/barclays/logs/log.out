@@ -1,0 +1,36 @@
+2020-04-27 11:04:615 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:765 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:309 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-27 11:04:125 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 10:04:387 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 10:04:546 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 10:04:676 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 10:04:553 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:56 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:513 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:878 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:516 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:171 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 13:04:405 INFO  HomePage :31 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (12b9454ac115e8d3676b46de6edff59a)] -> xpath: //body[@class='segment-visible skiplinks-hidden desktop']/div[@class='reference parbase section']/div/header[@class='global-header js-globalheader desktop']/div[@class='header-nav']/div[@class='header-container']/nav[@class='main-nav']/ul/li[1]/a[1]]
+2020-04-29 13:04:794 INFO  HomePage :36 - click on current account[[ChromeDriver: chrome on WINDOWS (12b9454ac115e8d3676b46de6edff59a)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-29 14:04:264 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:232 INFO  HomePage :31 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (23fce25105b788099710cb06c790eec4)] -> xpath: //body[@class='segment-visible skiplinks-hidden desktop']/div[@class='reference parbase section']/div/header[@class='global-header js-globalheader desktop']/div[@class='header-nav']/div[@class='header-container']/nav[@class='main-nav']/ul/li[1]/a[1]]
+2020-04-29 14:04:505 INFO  HomePage :36 - click on current account[[ChromeDriver: chrome on WINDOWS (23fce25105b788099710cb06c790eec4)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-29 14:04:842 INFO  CurrentAccountPage :25 - verify textCurrent accountscurrent account[[ChromeDriver: chrome on WINDOWS (23fce25105b788099710cb06c790eec4)] -> xpath: //h1[@class='h2 jumbo-title']]
+2020-04-29 14:04:718 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:46 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:72 INFO  HomePage :43 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (433450ae98ad874e9cd807cc01602ca3)] -> xpath: //body[@class='segment-visible skiplinks-hidden desktop']/div[@class='reference parbase section']/div/header[@class='global-header js-globalheader desktop']/div[@class='header-nav']/div[@class='header-container']/nav[@class='main-nav']/ul/li[1]/a[1]]
+2020-04-29 14:04:218 INFO  HomePage :53 - click on current account[[ChromeDriver: chrome on WINDOWS (433450ae98ad874e9cd807cc01602ca3)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-29 14:04:396 INFO  CurrentAccountPage :25 - verify textCurrent accountscurrent account[[ChromeDriver: chrome on WINDOWS (433450ae98ad874e9cd807cc01602ca3)] -> xpath: //h1[@class='h2 jumbo-title']]
+2020-04-29 14:04:533 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:999 INFO  HomePage :69 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (acc3f892e0ea34b6c2d923f533dbc383)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 14:04:203 INFO  FindABranchPage :24 - Entering the nearest postcode in the search Bar[[ChromeDriver: chrome on WINDOWS (acc3f892e0ea34b6c2d923f533dbc383)] -> id: location]
+2020-04-29 14:04:872 INFO  FindABranchPage :36 - Clicking on the search button[[ChromeDriver: chrome on WINDOWS (acc3f892e0ea34b6c2d923f533dbc383)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 14:04:98 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:715 INFO  HomePage :69 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (b0318b0d41908a56bb28e9133aa3f99a)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 14:04:937 INFO  FindABranchPage :24 - Entering the nearest postcode in the search Bar[[ChromeDriver: chrome on WINDOWS (b0318b0d41908a56bb28e9133aa3f99a)] -> id: location]
+2020-04-29 14:04:636 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 14:04:826 INFO  HomePage :69 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (7c372f61b2c28980bf5dc75b2405ad7e)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 14:04:906 INFO  FindABranchPage :26 - Entering the nearest postcode in the search Bar[[ChromeDriver: chrome on WINDOWS (7c372f61b2c28980bf5dc75b2405ad7e)] -> id: location]
+2020-04-29 14:04:598 INFO  FindABranchPage :39 - Clicking on the search button[[ChromeDriver: chrome on WINDOWS (7c372f61b2c28980bf5dc75b2405ad7e)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 14:04:721 INFO  FindABranchPage :32 - Verifying the search results[[ChromeDriver: chrome on WINDOWS (7c372f61b2c28980bf5dc75b2405ad7e)] -> xpath: //span[contains(text(),'131')]]
